@@ -38,17 +38,17 @@ function Model() {
   
   const hotspots = [
     {
-      position: [2, 3, 2],
+      position: [2, 3, 1],
       label: "Main Tower",
       description: "The central tower of the castle, standing tall and proud."
     },
     {
-      position: [-2, 1, 2],
-      label: "Castle Gate",
-      description: "The fortified entrance to the castle grounds."
+      position: [0.2, 0.3, 1],
+      label: "Castle Entrance",
+      description: "The fortified entrance to the castle."
     },
     {
-      position: [0, 2, -3],
+      position: [2, 0.3, 4],
       label: "Courtyard",
       description: "The inner courtyard where daily castle life takes place."
     }
